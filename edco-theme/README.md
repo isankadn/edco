@@ -1,1 +1,1 @@
-# abcmoocs.org Open edX theme
+# edco theme | Open edX theme Ginko Compatible
