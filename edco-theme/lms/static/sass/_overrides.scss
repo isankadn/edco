@@ -1707,6 +1707,12 @@ header.header-main {
     }
   }
   .footer-main {
+  ul {
+      margin-left: 0;
+      img {
+      height: 30px;
+      }
+  }
     .footer-logo {
       text-align: left;
     }
